@@ -19,7 +19,7 @@ To write a program to find the square root of a number.
 Program to find the square root for the given number(newton's method) using function.
 Developed by: NARESH.R
 RegisterNumber:23005559  
-*/
+/*
 def square_root_newton(number):
     x = number/2.0
     iterations= 100
