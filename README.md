@@ -32,7 +32,8 @@ print("Square root of the number:",result)
 ```
 
 ## Output:
-![Screenshot 2023-11-28 110541](https://github.com/feryjfgkuyfgewjfgew/Square-root-of-a-number/assets/150319377/2cf75871-2ade-4d9b-84f7-8f2f688edcd8)
+![Screenshot 2023-11-28 110541](https://github.com/feryjfgkuyfgewjfgew/Square-root-of-a-number/assets/150319377/6f129dee-6261-41b5-8aee-4d4e5b20c1f8)
+
 
 
 
