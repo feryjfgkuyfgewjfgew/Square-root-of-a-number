@@ -14,7 +14,8 @@ To write a program to find the square root of a number.
 4. Calculate  number = 0.5 * (number + a / number) for 100 iterations.
 5. Return number
 
-## Program:``
+## Program:
+```
 /*
 Program to find the square root for the given number(newton's method) using function.
 Developed by: NARESH.R
